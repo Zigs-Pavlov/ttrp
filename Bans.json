@@ -1,1 +1,17 @@
-test
+[
+    {
+        "Username": "user1",
+        "Reason": "Cheating",
+        "BannedBy": "Test Admin"
+    },
+    {
+        "Username": "user2",
+        "Reason": "Inappropriate language",
+        "BannedBy": "Test Admin"
+    },
+    {
+        "Username": "user3",
+        "Reason": "Spam",
+        "BannedBy": "Test Admin"
+    }
+]
